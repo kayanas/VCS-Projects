@@ -1,0 +1,40 @@
+.borders {
+  border: 1px solid gray;
+}
+
+.container {
+  margin-top: 50px;
+  /* padding-left: 200px; */
+  height: 83vh;
+}
+
+.container * :hover {
+  background-color: rgb(253, 253, 253);
+  color: black;
+}
+
+.navbar {
+  --bs-navbar-brand-padding-y: 0;
+}
+
+.navbar-nav {
+  margin-left: 150px;
+  text-align: center;
+}
+
+.nav-item {
+  width: 150px;
+}
+
+.top {
+  text-align: center;
+}
+
+.tbody {
+  text-align: center;
+}
+
+.pitch {
+  background-repeat: no-repeat;
+  background-size: cover;
+}

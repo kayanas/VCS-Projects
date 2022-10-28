@@ -1,0 +1,32 @@
+
+.table * {
+    text-align: center ;
+}
+
+.navbar {
+    background-color: rgb(117, 54, 63) ;
+}
+
+.sort {
+    display: inline;
+    height: 0px;
+}
+
+img{
+    height: 400px;
+    width: 250px;
+}
+
+h4{
+   padding-top: 5px;
+    height: 60px;
+}
+
+.cards{
+    width: 300px !important;
+}
+
+a, a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.402);
+}
